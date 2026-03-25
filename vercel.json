@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "cma-website",
+  "buildCommand": null,
+  "outputDirectory": "public",
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
